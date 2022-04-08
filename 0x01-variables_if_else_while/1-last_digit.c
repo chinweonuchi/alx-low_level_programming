@@ -1,10 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/** more headers goes there 
+
+/** main - entry point
  *
- *
-/* betty style doc for function main goes there */
+ * Description: Prints a number and it's last digit along with whether its
+ * last digit is 0, greater than 5, or less than 6 and not 0.
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
