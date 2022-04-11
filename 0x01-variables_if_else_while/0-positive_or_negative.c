@@ -21,9 +21,3 @@ int main(void)
 		printf("%d is negative\n", n);
 	return (0);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Do
